@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ترجمة مستندات رسمية</title>
+    <style>
+        body {
+            font-family: 'Tahoma', sans-serif;
+            background-color: #f0f4f7;
+            margin: 0;
+            padding: 0;
+        }
+        .document-container {
+            width: 75%;
+            margin: 30px auto;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
+        }
+        .document-title {
+            font-size: 2.4em;
+            color: #444;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        .document-section {
+            font-size: 1.4em;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .translation-section {
+            font-style: italic;
+            color: #666;
+            margin-top: 15px;
+        }
+        .cta {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .cta a {
+            background-color: #28a745;
+            color: white;
+            padding: 15px 40px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+        .cta a:hover {
+            background-color: #1e7e34;
+        }
+    </style>
+</head>
+<body>
+    <div class="document-container">
+        <h1 class="document-title">التقرير السنوي 2025</h1>
+        
+        <div class="document-section">
+            <strong>العنوان:</strong> تحليل البيانات المالية للأعوام الثلاثة الماضية.
+        </div>
+        <div class="translation-section">
+            <
