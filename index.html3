@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ترجمة القصة - الحوارات والتفاعل</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #eceff1;
+            margin: 0;
+            padding: 0;
+        }
+        .story-container {
+            width: 60%;
+            margin: 40px auto;
+            padding: 30px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
+        }
+        .story-title {
+            font-size: 2.2em;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .story-paragraph {
+            font-size: 1.3em;
+            color: #444;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+        .dialogue {
+            font-weight: bold;
+            color: #29b6f6;
+        }
+        .translated-paragraph {
+            font-size: 1.2em;
+            font-style: italic;
+            color: #555;
+            margin-top: 20px;
+        }
+        .cta {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .cta a {
+            background-color: #2196f3;
+            color: white;
+            padding: 15px 40px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease;
+        }
+        .cta a:hover {
+            background-color: #1976d2;
+        }
+    </style>
+</head>
+<body>
+    <div class="story-container">
+        <h1 class="story-title">قصة قصيرة: اللقاء المفاجئ</h1>
+        
+        <div class="story-paragraph">
+            "ذات يوم، بينما كان أحمد يسير في الطريق ... فوجئ بصوت يناديه: 'أحمد! هل أنت أحمد؟'"
+        </div>
+        
+        <div class="dialogue">
+            "أحمد؟ هل ناديتني؟" سأل أحمد بدهشة.
+        </div>
+        
+        <div class="translated-paragraph">
+            "One day, as Ahmed was walking down the road... he was surprised by a voice calling him: 'Ahmed! Is that you?'"
+        </div>
+        
+        <div class="dialogue">
+            "'Ahmed? Did you just call me?' Ahmed asked, stunned."
+        </div>
+        
+        <div class="cta">
+            <a href="mailto:your-email@example.com">ابدأ طلبك الآن لترجمة قصصك!</a>
+        </div>
+    </div>
+</body>
+</html>
